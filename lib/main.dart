@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'GPS定位 戶外限定'),
+      home: const MyHomePage(title: 'GPS定位 戶外限定.......'),
       debugShowCheckedModeBanner: false,
     );
   }
